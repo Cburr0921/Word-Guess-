@@ -1,0 +1,28 @@
+#game-word{
+    letter-spacing: 6px;
+    color: white;
+}
+.hide{
+display: none;
+}
+h1{
+   text-align: center;
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 100px;
+}
+p{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+#game{
+ text-align: center;
+
+}
+#game-container{
+    margin: 0 auto;
+    background-color: rgba(44,221,206,.3);
+    width: 75%;
+    border-radius: 18px;
+    padding: 2%;  
+}
