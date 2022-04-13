@@ -129,7 +129,7 @@ function gameOver(score) {
     }
     // else statement for if the user loses and propmting to play again
     else{
-        messageDiv.textContent = "Sorry, you lost word was " + gameWord + ". Want to play again?"
+        messageDiv.textContent = "Sorry, you lost the word was " + gameWord + ". Want to play again?"
     }
     document.getElementById("play-again").classList.remove("hide") // displaying a hideen button after the game loss or win
     document.getElementById("game").classList.add("hide")// hiding the game element after loss or win

@@ -25,4 +25,13 @@ p{
     width: 75%;
     border-radius: 18px;
     padding: 2%;  
+    text-align: center;
+}
+#message{
+    color: white;
+}
+.btn-outline-info{
+    color:white;
+    outline-color: white;
+    font-weight: bold;
 }
